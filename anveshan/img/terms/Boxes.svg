@@ -1,0 +1,154 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1795 532" width="1795" height="532">
+	<title>SERVICES &amp; TERMS</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #7a225d } 
+		.shp1 { fill: #480048 } 
+		.shp2 { fill: #300030 } 
+		.shp3 { opacity: 0.051;fill: #eeeeee } 
+		.shp4 { fill: #9a417c } 
+		.shp5 { fill: #682852 } 
+		.shp6 { fill: #601848 } 
+		.txt7 { font-size: 25px;line-height: 36px;fill: #eaafd6;font-weight: 400;font-family: "Roboto-Regular", "Roboto" } 
+		.txt8 { font-size: 16px;line-height: 24px;fill: #c39fb7;font-weight: 300;font-family: "Roboto-Light", "Roboto" } 
+	</style>
+	<g id="SERVICES &amp; TERMS">
+		<g id="Boxes">
+			<g id="1">
+				<path id="Shape 10" class="shp0" d="M0 0L678 0L678 177L0 177L0 0Z" />
+				<path id="Shape 10 copy" class="shp1" d="M0 177L678 177L678 354L0 354L0 177Z" />
+				<path id="Shape 10 copy 2" class="shp2" d="M0 354L678 354L678 531L0 531L0 354Z" />
+				<path id="Shape 9 copy 2" class="shp3" d="M0 0L151 0L151 531.08L0 531.08L0 0Z" />
+				<path id="Shape 15" class="shp4" d="M98.76 88.13L84.97 74.34C84.49 73.86 83.71 73.86 83.23 74.34C82.75 74.82 82.75 75.6 83.23 76.08L94.91 87.76L62.11 87.76C61.43 87.76 60.88 88.31 60.88 88.99C60.88 89.67 61.43 90.22 62.11 90.22L94.92 90.22L83.23 101.9C82.75 102.38 82.75 103.16 83.23 103.64C83.47 103.88 83.78 104 84.1 104C84.41 104 84.73 103.88 84.97 103.64L98.76 89.87C98.99 89.64 99.12 89.33 99.12 89C99.12 88.67 98.99 88.36 98.76 88.13Z" />
+				<path id="Shape 15 copy" class="shp5" d="M98.76 265.13L84.97 251.34C84.49 250.86 83.71 250.86 83.23 251.34C82.75 251.82 82.75 252.6 83.23 253.08L94.91 264.76L62.11 264.76C61.43 264.76 60.88 265.31 60.88 265.99C60.88 266.67 61.43 267.22 62.11 267.22L94.92 267.22L83.23 278.9C82.75 279.38 82.75 280.16 83.23 280.64C83.47 280.88 83.78 281 84.1 281C84.41 281 84.73 280.88 84.97 280.64L98.76 266.87C98.99 266.64 99.12 266.33 99.12 266C99.12 265.67 98.99 265.36 98.76 265.13Z" />
+				<path id="Shape 15 copy 2" class="shp6" d="M98.76 442.13L84.97 428.34C84.49 427.86 83.71 427.86 83.23 428.34C82.75 428.82 82.75 429.6 83.23 430.08L94.91 441.76L62.11 441.76C61.43 441.76 60.88 442.31 60.88 442.99C60.88 443.67 61.43 444.22 62.11 444.22L94.92 444.22L83.23 455.9C82.75 456.38 82.75 457.16 83.23 457.64C83.47 457.88 83.78 458 84.1 458C84.41 458 84.73 457.88 84.97 457.64L98.76 443.87C98.99 443.64 99.12 443.33 99.12 443C99.12 442.67 98.99 442.36 98.76 442.13Z" />
+				<g id="Text">
+					<text id="Adipisecting" style="transform: matrix(1,0,0,1,201,70)" >
+						<tspan x="0" y="0" class="txt7">A</tspan><tspan  y="0" class="txt7">dipisecting
+</tspan>
+					</text>
+					<text id="Vestibulum tempor interdum tincidunt.  Nam feugiat, metus nec l" style="transform: matrix(1,0,0,1,201,99)" >
+						<tspan x="0" y="0" class="txt8" dx="0" >V</tspan><tspan  y="0" class="txt8" dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" >estibulum tempor interdum tincidunt. 
+</tspan>
+						<tspan x="0" y="24" class="txt8" dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" >Nam feugiat, metus nec laoreet
+</tspan>
+					</text>
+				</g>
+				<g id="Text 2">
+					<text id="Quisquesit amet " style="transform: matrix(1,0,0,1,201,246)" >
+						<tspan x="0" y="0" class="txt7">Q</tspan><tspan  y="0" class="txt7">uisquesit amet 
+</tspan>
+					</text>
+					<text id="Vestibulum tempor interdum tincidunt.  Nam feugiat, metus nec l" style="transform: matrix(1,0,0,1,201,275)" >
+						<tspan x="0" y="0" class="txt8" dx="0" >V</tspan><tspan  y="0" class="txt8" dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" >estibulum tempor interdum tincidunt. 
+</tspan>
+						<tspan x="0" y="24" class="txt8" dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" >Nam feugiat, metus nec laoreet
+</tspan>
+					</text>
+				</g>
+				<g id="Text 3">
+					<text id="Molestie at semper " style="transform: matrix(1,0,0,1,201,423)" >
+						<tspan x="0" y="0" class="txt7">M</tspan><tspan  y="0" class="txt7">olestie at semper 
+</tspan>
+					</text>
+					<text id="Vestibulum tempor interdum tincidunt.  Nam feugiat, metus nec l" style="transform: matrix(1,0,0,1,201,452)" >
+						<tspan x="0" y="0" class="txt8" dx="0" >V</tspan><tspan  y="0" class="txt8" dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" >estibulum tempor interdum tincidunt. 
+</tspan>
+						<tspan x="0" y="24" class="txt8" dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" >Nam feugiat, metus nec laoreet
+</tspan>
+					</text>
+				</g>
+			</g>
+			<g id="2">
+				<path id="Shape 10" class="shp0" d="M577 0L1255 0L1255 177L577 177L577 0Z" />
+				<path id="Shape 10 copy" class="shp1" d="M577 177L1255 177L1255 354L577 354L577 177Z" />
+				<path id="Shape 10 copy 2" class="shp2" d="M577 354L1255 354L1255 531L577 531L577 354Z" />
+				<path id="Shape 9 copy 2" class="shp3" d="M577 0L728 0L728 531.08L577 531.08L577 0Z" />
+				<path id="Shape 15" class="shp4" d="M675.76 88.13L661.97 74.34C661.49 73.86 660.71 73.86 660.23 74.34C659.75 74.82 659.75 75.6 660.23 76.08L671.91 87.76L639.11 87.76C638.43 87.76 637.88 88.31 637.88 88.99C637.88 89.67 638.43 90.22 639.11 90.22L671.92 90.22L660.23 101.9C659.75 102.38 659.75 103.16 660.23 103.64C660.47 103.88 660.78 104 661.1 104C661.41 104 661.73 103.88 661.97 103.64L675.76 89.87C675.99 89.64 676.12 89.33 676.12 89C676.12 88.67 675.99 88.36 675.76 88.13Z" />
+				<path id="Shape 15 copy" class="shp5" d="M675.76 265.13L661.97 251.34C661.49 250.86 660.71 250.86 660.23 251.34C659.75 251.82 659.75 252.6 660.23 253.08L671.91 264.76L639.11 264.76C638.43 264.76 637.88 265.31 637.88 265.99C637.88 266.67 638.43 267.22 639.11 267.22L671.92 267.22L660.23 278.9C659.75 279.38 659.75 280.16 660.23 280.64C660.47 280.88 660.78 281 661.1 281C661.41 281 661.73 280.88 661.97 280.64L675.76 266.87C675.99 266.64 676.12 266.33 676.12 266C676.12 265.67 675.99 265.36 675.76 265.13Z" />
+				<path id="Shape 15 copy 2" class="shp6" d="M675.76 442.13L661.97 428.34C661.49 427.86 660.71 427.86 660.23 428.34C659.75 428.82 659.75 429.6 660.23 430.08L671.91 441.76L639.11 441.76C638.43 441.76 637.88 442.31 637.88 442.99C637.88 443.67 638.43 444.22 639.11 444.22L671.92 444.22L660.23 455.9C659.75 456.38 659.75 457.16 660.23 457.64C660.47 457.88 660.78 458 661.1 458C661.41 458 661.73 457.88 661.97 457.64L675.76 443.87C675.99 443.64 676.12 443.33 676.12 443C676.12 442.67 675.99 442.36 675.76 442.13Z" />
+				<g id="Text">
+					<text id="Sit amet consectetur" style="transform: matrix(1,0,0,1,778,70)" >
+						<tspan x="0" y="0" class="txt7">S</tspan><tspan  y="0" class="txt7">it amet consectetur
+</tspan>
+					</text>
+					<text id="Vestibulum tempor interdum tincidunt.  Nam feugiat, metus nec l" style="transform: matrix(1,0,0,1,778,99)" >
+						<tspan x="0" y="0" class="txt8" dx="0" >V</tspan><tspan  y="0" class="txt8" dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" >estibulum tempor interdum tincidunt. 
+</tspan>
+						<tspan x="0" y="24" class="txt8" dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" >Nam feugiat, metus nec laoreet
+</tspan>
+					</text>
+				</g>
+				<g id="Text 2">
+					<text id="Adipiscing elit" style="transform: matrix(1,0,0,1,778,246)" >
+						<tspan x="0" y="0" class="txt7">A</tspan><tspan  y="0" class="txt7">dipiscing elit
+</tspan>
+					</text>
+					<text id="Vestibulum tempor interdum tincidunt.  Nam feugiat, metus nec l" style="transform: matrix(1,0,0,1,778,275)" >
+						<tspan x="0" y="0" class="txt8" dx="0" >V</tspan><tspan  y="0" class="txt8" dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" >estibulum tempor interdum tincidunt. 
+</tspan>
+						<tspan x="0" y="24" class="txt8" dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" >Nam feugiat, metus nec laoreet
+</tspan>
+					</text>
+				</g>
+				<g id="Text 3">
+					<text id="Quisque sit amet " style="transform: matrix(1,0,0,1,778,423)" >
+						<tspan x="0" y="0" class="txt7">Q</tspan><tspan  y="0" class="txt7">uisque sit amet 
+</tspan>
+					</text>
+					<text id="Vestibulum tempor interdum tincidunt.  Nam feugiat, metus nec l" style="transform: matrix(1,0,0,1,778,452)" >
+						<tspan x="0" y="0" class="txt8" dx="0" >V</tspan><tspan  y="0" class="txt8" dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" >estibulum tempor interdum tincidunt. 
+</tspan>
+						<tspan x="0" y="24" class="txt8" dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" >Nam feugiat, metus nec laoreet
+</tspan>
+					</text>
+				</g>
+			</g>
+			<g id="3">
+				<path id="Shape 10" class="shp0" d="M1154 0L1795 0L1795 177L1154 177L1154 0Z" />
+				<path id="Shape 10 copy" class="shp1" d="M1154 177L1795 177L1795 354L1154 354L1154 177Z" />
+				<path id="Shape 10 copy 2" class="shp2" d="M1154 354L1795 354L1795 531L1154 531L1154 354Z" />
+				<path id="Shape 9 copy 2" class="shp3" d="M1154 0L1305 0L1305 531.08L1154 531.08L1154 0Z" />
+				<path id="Shape 15" class="shp4" d="M1252.76 88.13L1238.97 74.34C1238.49 73.86 1237.71 73.86 1237.23 74.34C1236.75 74.82 1236.75 75.6 1237.23 76.08L1248.91 87.76L1216.11 87.76C1215.43 87.76 1214.88 88.31 1214.88 88.99C1214.88 89.67 1215.43 90.22 1216.11 90.22L1248.92 90.22L1237.23 101.9C1236.75 102.38 1236.75 103.16 1237.23 103.64C1237.47 103.88 1237.78 104 1238.1 104C1238.41 104 1238.73 103.88 1238.97 103.64L1252.76 89.87C1252.99 89.64 1253.12 89.33 1253.12 89C1253.12 88.67 1252.99 88.36 1252.76 88.13Z" />
+				<path id="Shape 15 copy" class="shp5" d="M1252.76 265.13L1238.97 251.34C1238.49 250.86 1237.71 250.86 1237.23 251.34C1236.75 251.82 1236.75 252.6 1237.23 253.08L1248.91 264.76L1216.11 264.76C1215.43 264.76 1214.88 265.31 1214.88 265.99C1214.88 266.67 1215.43 267.22 1216.11 267.22L1248.92 267.22L1237.23 278.9C1236.75 279.38 1236.75 280.16 1237.23 280.64C1237.47 280.88 1237.78 281 1238.1 281C1238.41 281 1238.73 280.88 1238.97 280.64L1252.76 266.87C1252.99 266.64 1253.12 266.33 1253.12 266C1253.12 265.67 1252.99 265.36 1252.76 265.13Z" />
+				<path id="Shape 15 copy 2" class="shp6" d="M1252.76 442.13L1238.97 428.34C1238.49 427.86 1237.71 427.86 1237.23 428.34C1236.75 428.82 1236.75 429.6 1237.23 430.08L1248.91 441.76L1216.11 441.76C1215.43 441.76 1214.88 442.31 1214.88 442.99C1214.88 443.67 1215.43 444.22 1216.11 444.22L1248.92 444.22L1237.23 455.9C1236.75 456.38 1236.75 457.16 1237.23 457.64C1237.47 457.88 1237.78 458 1238.1 458C1238.41 458 1238.73 457.88 1238.97 457.64L1252.76 443.87C1252.99 443.64 1253.12 443.33 1253.12 443C1253.12 442.67 1252.99 442.36 1252.76 442.13Z" />
+				<g id="Text">
+					<text id="Adipisecting" style="transform: matrix(1,0,0,1,1355,70)" >
+						<tspan x="0" y="0" class="txt7">A</tspan><tspan  y="0" class="txt7">dipisecting
+</tspan>
+					</text>
+					<text id="Vestibulum tempor interdum tincidunt.  Nam feugiat, metus nec l" style="transform: matrix(1,0,0,1,1355,99)" >
+						<tspan x="0" y="0" class="txt8" dx="0" >V</tspan><tspan  y="0" class="txt8" dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" >estibulum tempor interdum tincidunt. 
+</tspan>
+						<tspan x="0" y="24" class="txt8" dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" >Nam feugiat, metus nec laoreet
+</tspan>
+					</text>
+				</g>
+				<g id="Text 2">
+					<text id="Quisquesit amet " style="transform: matrix(1,0,0,1,1355,246)" >
+						<tspan x="0" y="0" class="txt7">Q</tspan><tspan  y="0" class="txt7">uisquesit amet 
+</tspan>
+					</text>
+					<text id="Vestibulum tempor interdum tincidunt.  Nam feugiat, metus nec l" style="transform: matrix(1,0,0,1,1355,275)" >
+						<tspan x="0" y="0" class="txt8" dx="0" >V</tspan><tspan  y="0" class="txt8" dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" >estibulum tempor interdum tincidunt. 
+</tspan>
+						<tspan x="0" y="24" class="txt8" dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" >Nam feugiat, metus nec laoreet
+</tspan>
+					</text>
+				</g>
+				<g id="Text 3">
+					<text id="Molestie at semper " style="transform: matrix(1,0,0,1,1355,423)" >
+						<tspan x="0" y="0" class="txt7">M</tspan><tspan  y="0" class="txt7">olestie at semper 
+</tspan>
+					</text>
+					<text id="Vestibulum tempor interdum tincidunt.  Nam feugiat, metus nec l" style="transform: matrix(1,0,0,1,1355,452)" >
+						<tspan x="0" y="0" class="txt8" dx="0" >V</tspan><tspan  y="0" class="txt8" dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" >estibulum tempor interdum tincidunt. 
+</tspan>
+						<tspan x="0" y="24" class="txt8" dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" >Nam feugiat, metus nec laoreet
+</tspan>
+					</text>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,511 @@
+/* ---------------FONTS--------------- */
+/* ---------------ROBOTO--------------- */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+/* ---------------RESET CSS STYLE--------------- */
+* {
+   margin: 0;
+   padding: 0;
+   border: 0;
+   box-sizing: border-box;
+}
+
+*,*:before,*:after {
+	box-sizing: border-box;
+}
+
+/* ---------------GENERAL CSS STYLE--------------- */
+.container {
+   max-width: 1200px;
+   margin: 0 auto;
+}
+
+:root {
+   --roboto: 'Roboto', sans-serif;
+}
+
+/* ---------------HEADER CSS STYLE--------------- */
+header {
+   padding: 95px 0 99px 0;
+   
+   background: url("../img/header/background.png") center center/cover no-repeat;
+}
+
+.header_flex {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.menu_flex {
+   width: 240px;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+}
+
+.header_contact {
+   font: 400 20px var(--roboto);
+   color: #ffffff;
+   text-align: center;
+   text-transform: uppercase;
+}
+
+.header_contact::after {
+   content: '';
+
+   margin-left: 20px;
+
+   border-right: 1px solid #5e5e5e;
+}
+
+.header_menu {
+   font: 400 20px var(--roboto);
+   color: #ffffff;
+   text-align: center;
+   text-transform: uppercase;
+}
+
+.menu_flex a i {
+   font-size: 20px;
+   color: #5e5e5e;
+}
+
+.header_title {
+   margin-top: 250px;
+
+   font: 700 73px var(--roboto);
+   line-height: 71px;
+   color: #ffffff;
+   text-align: center;
+   text-transform: uppercase;
+}
+
+.header_subtitle {
+   margin-top: 23px;
+
+   font: 700 73px var(--roboto);
+   line-height: 71px;
+   color: #ed322d;
+   text-align: center;
+   text-transform: uppercase;
+}
+
+.header_text {
+   display: block;
+   margin: 0 auto;
+   margin-top: 52px;
+   max-width: 469px;
+
+   font: 300 20px var(--roboto);
+   letter-spacing: 0px;
+   color: #a8a8a8;
+   text-align: center;
+}
+
+.header_footer {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 387px;
+}
+
+/* ---------------GRAPH CSS STYLE--------------- */
+.graph {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+
+   background-color: #f8f8f8;
+}
+
+.left_div {
+   width: 50%;
+}
+
+.right_div {
+   width: 50%;
+}
+
+.right_div_title {
+   max-width: 458px;
+   margin-top: 50px;
+
+   font: 700 72px var(--roboto);
+   line-height: 70px;
+   color: #404040;
+   text-transform: uppercase;
+}
+
+.right_div_title span {
+   color: #ed322d;
+}
+
+.right_div_title::after {
+   content: '';
+   display: block;
+   margin-top: 20px;
+   width: 34px;
+   height: 2px;
+
+   background-color: #bebebe; 
+}
+
+.right_div_text {
+   max-width: 600px;
+   margin-top: 20px;
+
+   font: 300 17px var(--roboto);
+   line-height: 31px;
+   color: #5d5d5d;
+}
+
+.right_div_text::after {
+   content: '';
+   display: block;
+   margin-top: 43px;
+
+   width: 600px;
+   height: 1px;
+   background-color: #d7d7d7;
+}
+
+.min-container {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+
+   margin-top: 30px;
+}
+
+.container_right_text {
+   max-width: 512px;
+
+   font: 300 17px var(--roboto);
+   line-height: 31px;
+   color: #5d5d5d;
+}
+
+/* ---------------PROCESS CSS STYLE--------------- */
+.process {
+   padding: 160px 0 160px 0;
+}
+
+.process_title {
+   font: 700 72px var(--roboto);
+   line-height: 70px;
+   color: #404040;
+   text-align: center;
+   text-transform: uppercase;
+}
+
+.process_title::after {
+   content: '';
+   display: block;
+   margin: 0 auto;
+   margin-top: 30px;
+
+   width: 34px;
+   height: 2px;
+   background-color: #bebebe;
+}
+
+.process_text {
+   margin-top: 32px;
+
+   font: 250 24px var(--roboto);
+   line-height: 37px;
+   color: #5d5d5d;
+   text-align: center;
+}
+
+.round_flex {
+   margin-top: 79px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.one_round {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 196px;
+   height: 196px;
+   border-radius: 50%;
+
+   position: relative;
+   z-index: 4;
+
+   background-color: #ef666d;
+   opacity: 0.9;
+}
+
+.two_round {
+   margin-left: -25px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 340px;
+   height: 340px;
+   border-radius: 50%;
+
+   position: relative;
+   z-index: 3;
+
+   background-color: #3dbbaf;
+   opacity: 0.9;
+}
+
+.three_round {
+   margin-left: -40px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 404px;
+   height: 404px;
+   border-radius: 50%;
+
+   position: relative;
+   z-index: 2;
+
+   background-color: #5dd0eb;
+   opacity: 0.9;
+}
+
+.four_round {
+   margin-left: -25px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 187px;
+   height: 187px;
+   border-radius: 50%;
+
+   position: relative;
+   z-index: 1;
+
+   background-color: #f5c92e;
+   opacity: 0.9;
+}
+
+.round_text {
+   font: 400 24px var(--roboto);
+   line-height: 37px;
+   color: #ffffff;
+   text-align: center;
+   text-transform: uppercase;
+}
+
+.descr {
+   margin-top: 59px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.descr_title {
+   font: 700 15px var(--roboto);
+   line-height: 26px;
+   color: #5d5d5d;
+   text-transform: uppercase;
+}
+
+.descr_text {
+   max-width: 250px;
+
+   font: 300 15px var(--roboto);
+   line-height: 26px;
+   color: #5d5d5d;
+}
+
+/* ---------------TERMS CSS STYLE--------------- */
+.terms {
+   padding: 150px 0 150px 0;
+
+   background: url('../img/terms/background.png') center center/cover no-repeat;
+}
+
+.terms .process_title {
+   color: #fff;
+}
+
+.terms .process_title span {
+   color: #ed322d;
+}
+
+.terms .process_title::after{
+   content: '';
+   background-color: #494949;
+}
+
+.terms .process_text {
+   color: #fff;
+}
+
+.box_img {
+   margin-top: 93px;
+}
+
+.box_img img {
+   width: 100%;
+}
+
+/* ---------------SHAPE CSS STYLE--------------- */
+.shape {
+   padding-top: 161px;
+   background: url('../img/shape/background.png') center center/cover no-repeat;
+
+   position: relative;
+}
+
+.shape_logo {
+   position: absolute;
+   top: -90px;
+   left: 50%;
+
+   transform: translateX(-50%);
+}
+
+.shape .process_title {
+   font: 700 72px var(--roboto); 
+   line-height: 70px;
+   color: #404040;
+   text-align: center;
+   text-transform: uppercase;
+}
+
+.shape .process_title span {
+   color: #fff;
+}
+
+.shape .process_title::after{
+   content: '';
+   margin-top: 30px;
+
+   background-color: #bebebe;
+}
+
+
+.shape .process_text {
+   max-width: 600px;
+   display: block;
+   margin: 0 auto;
+   margin-top: 33px;
+    
+   font: 250 24px var(--roboto);
+   line-height: 37px;
+   color: #000000;
+   text-align: center;
+}
+
+.form {
+   width: 945px;
+   height: 627px;
+   margin: 0 auto;
+   margin-top: 54px;
+   padding: 120px 0 97px 0;
+
+   background-color: #fff;
+   border-bottom: 1px solid #ebebeb;
+}
+
+.form_div {
+   display: block;
+   margin: 0 auto;
+   max-width: 486px;
+
+   border-bottom: 1px solid #ebebeb;
+}
+
+.form_input {
+   width: 100%;
+   padding: 4px 0 4px 15px;
+
+   font: 300 14px var(--roboto);
+   line-height: 36px;
+   color: #000;
+
+   outline: none;
+}
+
+.form_input::placeholder {
+   color: #8e8e8e;
+}
+
+.mt {
+   margin-top: 30px;
+}
+
+.form_button {
+   max-width: 240px;
+   display: block;
+   margin: 0 auto;
+   margin-top: 79px;
+   padding: 20px 0;
+
+   text-align: center;
+
+   border: 2px solid #878787;
+   cursor: pointer;
+}
+
+.form_submit {
+   font: 400 17px var(--roboto);
+   color: #3c3c3c;
+   background-color: #fff;
+   text-transform: uppercase;
+
+   cursor: pointer;
+}
+
+/* ---------------FOOTER CSS STYLE--------------- */
+.footer {
+   padding: 71px 0 76px 0;
+}
+
+.square_flex {
+   max-width: 220px;
+   margin: 0 auto;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.square_style {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 50px;
+   height: 50px;
+
+   border: 2px solid #acacac;
+   cursor: pointer;
+}
+
+.square_style i {
+   font-size: 20px;
+   color: #8a8a8a;
+}
+
+.p_style {
+   font: 300 15px var(--roboto);
+   line-height: 36px;
+   color: #969696;
+   text-align: center;
+}
+
+.p_style span {
+   color: #ed322d;
+   
+   cursor: pointer;
+}
+
+.p_style.mt {
+   margin-top: 58px;
+}
+
+
+.p_style.mt2 {
+   margin-top: 66px;
+} 
